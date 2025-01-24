@@ -1,0 +1,48 @@
+.mainbdy {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 10px;
+    padding: 5px;
+    overflow: auto;
+}
+
+.bdyblock {
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.blockone {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 10px;
+    padding: 5px;
+}
+
+.custinf {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 10px;
+    padding: 5px;
+}
+
+.table, .th, .td {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 10px;
+    padding: 5px;
+}
+
+.tr {
+
+}
+
+.td {
+
+}

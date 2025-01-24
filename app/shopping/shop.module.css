@@ -1,0 +1,17 @@
+.h1 {
+    color: white;
+    margin: 10px;
+}
+
+.h2 {
+    color: white;
+    margin: 15px;
+}
+
+.bsWrap {
+    position: fixed;
+    height: 100vw;
+    width: 100vw;
+    overflow: scroll;
+    z-index: -1;
+}

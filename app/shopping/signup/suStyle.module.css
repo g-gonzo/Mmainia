@@ -1,0 +1,48 @@
+.backcolor3 {
+    background-color: rgb(218, 225, 225);
+}
+
+.h1 {
+    padding: auto;
+    margin: 5px;
+}
+
+.h2 {
+    padding: auto;
+    margin: 5px;
+}
+
+.h3 {
+    padding: auto;
+    margin: 5px;
+    text-align: center;
+}
+
+.label {
+    padding: auto;
+    margin: 10px;
+    align-items: flex-start;
+}
+
+.input {
+    padding: auto;
+    margin: 5px;
+    align-items: flex-end;
+}
+
+.form {
+    padding: auto;
+    margin: 5px;
+    text-align: center;
+}
+
+.subutton {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(224, 224, 231);
+    margin: 5px;
+}
+
+.fillbox {
+    text-align: center;
+}

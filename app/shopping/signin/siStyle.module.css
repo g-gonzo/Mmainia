@@ -1,0 +1,47 @@
+.backcolor2 {
+    background-color: rgb(218, 225, 225);
+}
+
+.formblock {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.form {
+    padding: auto;
+    margin: 5px;
+    text-align: center;
+}
+
+.h1 {
+    padding: auto;
+    margin: 5px;
+}
+
+.h2 {
+    padding: auto;
+    margin: 5px;
+}
+
+.h3 {
+    padding: auto;
+    margin: 5px;
+    text-align: center;
+}
+
+.label {
+    padding: auto;
+    margin: 5px;
+}
+
+.input {
+    padding: auto;
+    margin: 5px;
+}
+
+.sibutton {
+    height: 50px;
+    width: 150px;
+    background-color: rgb(224, 224, 231);
+}

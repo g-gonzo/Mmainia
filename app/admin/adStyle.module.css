@@ -1,0 +1,45 @@
+.mainContainer {
+    display: flex;
+    background-color: #FBE48A;
+    padding: 10px;
+
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    padding: 5px 5px;
+    background: #6f90f3;
+    color: #f1f1f1;
+    height: 100px;
+    width: auto;
+}
+
+.navbox {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.subutton {
+    height: 50px;
+    width: 100px;
+}
+
+.cicenter {
+    padding: 5px;
+}
+
+.table, .th, .td {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin: 10px;
+    padding: 5px;
+}

@@ -1,0 +1,22 @@
+.backcolor {
+    background-color: rgb(218, 225, 225);
+    overflow: scroll;
+}
+
+.division1 {
+    padding: auto;
+    margin: 10px;
+    text-align: center;
+}
+
+.division2 {
+    padding: auto;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+}
+
+.p {
+    margin-left: 20px;
+}
