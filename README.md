@@ -14,7 +14,7 @@ This is a self-contained NEXT.js application:
 2.	Open terminal and use command ‘npm run dev’
 3.	Launch browser and go to the correct localhost. (localhost:3000)
 ## Credits or Resources
-Adhithi Ravichandran [Website]( https://adhithiravichandran.com/)
+Adhithi Ravichandran [Website]( https://adhithiravichandran.com/) For her PluraSight course on ‘Getting Started with NEXT.js’, very helpful.
 ## License
 It probably doesn’t need any kind of licensing, but in keeping with GitHub’s preferred practices and recommendations. I have placed this under the provisions and guidelines of an MIT License. 
 MIT © [Gilbert Gonzales]()
