@@ -5,7 +5,7 @@ I needed a quick website to demonstrate alongside a PPT presentation that had so
 ## Build status
 Somewhat functional, complete enough for the original demo purpose. 
 ## Screenshots
-![](/images/mmainia.png)
+![](/public/images/mmainia.png)
 ## Tech/Framework
 Visual Studio Code, NEXT.js
 ## How to use?
