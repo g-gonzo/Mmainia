@@ -5,11 +5,11 @@ I needed a quick website to demonstrate alongside a PPT presentation that had so
 ## Build status
 Somewhat functional, complete enough for the original demo purpose. 
 ## Screenshots
-![](/public/images/mmainia.png)
+![](/app/public/images/mmainia.png)
 ## Tech/Framework
 Visual Studio Code, NEXT.js
 ## How to use?
-This is a self-contained Blazor application: 
+This is a self-contained NEXT.js application: 
 1.	Just download this to you preferred computer location.  
 2.	Open terminal and use command ‘npm run dev’
 3.	Launch browser and go to the correct localhost. (localhost:3000)
